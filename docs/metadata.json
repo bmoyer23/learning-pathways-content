@@ -1,0 +1,55 @@
+{
+  "Audiences": [
+    {
+      "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "Name": "All Employees",
+      "Source": "Custom"
+    }
+  ],
+  "Levels": [
+    {
+      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Name": "Beginner",
+      "Source": "Custom"
+    },
+    {
+      "Id": "f1f36e68-a5f5-4b6a-b1c2-9f43e9cdb3e1",
+      "Name": "Intermediate",
+      "Source": "Custom"
+    }
+  ],
+  "Technologies": [
+    {
+      "Id": "b1b9a5e3-3f9a-4a0c-9c51-2e6dcf7d2458",
+      "Name": "Power Automate",
+      "Source": "Custom"
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+      "Name": "Product",
+      "Source": "Custom"
+    }
+  ],
+  "StatusTags": [
+    {
+      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Name": "Updated",
+      "Source": "Custom"
+    }
+  ],
+  "Subjects": [],
+  "Sources": [
+    {
+      "Id": "Microsoft",
+      "Name": "Microsoft",
+      "Source": "Microsoft"
+    },
+    {
+      "Id": "Custom",
+      "Name": "Custom",
+      "Source": "Custom"
+    }
+  ]
+}

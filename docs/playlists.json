@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "d5e4c2a6-7f4e-4c55-9f0d-5a3b7f9f9b10",
+    "Title": "Power Automate \u2013 Foundations & Best Practices",
+    "Image": "images/playlists/power_automate_foundations.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "b1b9a5e3-3f9a-4a0c-9c51-2e6dcf7d2458",
+    "SubjectId": "",
+    "Source": "Custom",
+    "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+    "Description": "Learn core concepts of Power Automate: triggers, actions, approvals, expressions, error handling, governance, and Power Automate Desktop.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "Curated December 2025",
+    "Assets": [
+      "pa-asset-001",
+      "pa-asset-002",
+      "pa-asset-003",
+      "pa-asset-004",
+      "pa-asset-005",
+      "pa-asset-006",
+      "pa-asset-007",
+      "pa-asset-008",
+      "pa-asset-009",
+      "pa-asset-010",
+      "pa-asset-011",
+      "pa-asset-012"
+    ]
+  }
+]
